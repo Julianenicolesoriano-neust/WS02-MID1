@@ -1,0 +1,128 @@
+
+html, body{
+font-family: Arial, sans-serif;
+margin: 0;
+background-color: DarkOliveGreen;
+}
+header{
+background-color: Beige;
+padding: 37px;
+text-align: center;
+}
+h1{
+font-size: 90px;
+color: DarkOliveGreen;
+font-family: Broadway, monospace;
+}
+header img{
+border-radius: 200px;
+width: 270px;
+height: 350px;
+border: 25px solid DarkOliveGreen;
+
+}
+.content{
+max-width: 900px;
+margin: 0 auto;
+padding: 0 20px;
+}
+img.big-image{
+
+
+max-width: 100%;
+
+}
+p.cap3on{
+font-size: 16px;
+color: lightgrey;
+font-style: italic;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+a{
+color: red;
+text-decora3on: none;
+}
+
+footer{
+margin-top: 20px;
+padding: 40px 20px;
+background-color: Beige;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
+
+li{
+	color: Beige;
+	font-family: verdana, monospace;
+}
+
+h2{
+font-family: Broadway, monospace;
+color: Beige;
+font-size: 50px;
+}
+p{
+	font-family: verdana, sans-serif;
+	font-size: 20px;
+	color: Beige;
+}
+
+h3{
+	font-family: Broadway, monospace;
+	font-size: 25px;
+	color: beige;
+}
+#myList{
+	color: DarkOliveGreen;
+}
+img.small-image{
+border-radius: 100px;
+border-image: 100px;
+max-width: 100%;
+border: 20px;
+}
+#friend{
+	text-align: center;
+}
+img.tiger{
+	border-radius: 100px;
+border-image: 100px;
+max-width: 100%;
+border: 20px;
+width: 150px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+img.viper{
+	border-radius: 100px;
+border-image: 100px;
+max-width: 100%;
+border: 20px;
+width: 150px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+img.mantis{
+	border-radius: 100px;
+border-image: 100px;
+max-width: 100%;
+border: 20px;
+width: 150px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
